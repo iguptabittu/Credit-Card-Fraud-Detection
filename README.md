@@ -87,8 +87,13 @@ The dataset used contains anonymized credit card transactions made by European c
 
 ## 📂 File Structure
 📁 Credit_Card_Fraud_Detection/
+
 │
+
 ├── credit_data.csv # Original dataset (not included due to size)
+
 ├── Project_10_Credit_Card_Fraud_Detection.ipynb # Jupyter Notebook
+
 ├── README.md # Project documentation
+
 ├── requirements.txt # Required dependencies
